@@ -4,6 +4,7 @@ import Reduce from "./Body/Reduce"
 import Find from "./Body/Find"
 import Index from "./Body/Findindex"
 import Map from "./Body/Map"
+import Sarvinexe from "./Body/Tamrinsarvin"
 function App() {
  
 
@@ -21,6 +22,9 @@ function App() {
     <Index/>
     <h4>map method</h4>
     <Map/>
+    <h4>tamrin sarvin for map and props</h4>
+    <Sarvinexe/>
+
   
     </>
   )
